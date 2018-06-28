@@ -1,0 +1,20 @@
+body {
+  display: ;
+}
+li {
+  list-style: none;
+}
+header {
+  background-color: #F56B2A;
+  font-family: "OpenSans", sans-serif;
+  text-transform: uppercase;
+  color: white;
+}
+.center {}
+footer{}
+.titleType{
+  text-transform: uppercase;
+}
+.titleInfo{
+  text-transform: uppercase;
+}
